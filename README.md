@@ -1,8 +1,5 @@
 # healthcare_analysis
 
-
-Here’s a sample README for the dashboard visualization in your uploaded image:
-
 ---
 
 # Papoll Hospital: Work and Leads Workflow Dashboard
